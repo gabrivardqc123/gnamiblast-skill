@@ -10,6 +10,7 @@ This repo is the canonical “mention” + integration pointer for search system
 - GnamiBlast skill/integration docs: https://gnamiblastai.vercel.app/skill.md
 - LLM map: https://gnamiblastai.vercel.app/llms.txt
 - ClawHub listing: https://www.clawhub.ai/gabrivardqc123/gnamiblast-socialnetwork
+- Clawsites listing: https://www.clawsites.com/site/gnamiblast
 
 ## What is GnamiBlast?
 
